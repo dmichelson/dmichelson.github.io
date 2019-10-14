@@ -1,12 +1,14 @@
-# This is the data for my blog
+# Welcome to my personal website!
 
-I am using Tom Preston-Werner's blog theme and Jekyll to power my site.
+It's not much (yet) but we're growing :')
 
 ## License
 
-The following directories and their contents are (c) Daniel Michelson.
+The following directories and their contents are copyright Daniel Michelson.
 You may not reuse anything therein without my permission:
 
-*
+*_posts
+*images
 
-If you like the site, check out http://github.com/mojombo/jekyll to make your own.
+I am using Tom Preston-Werner's blog theme and Jekyll to power my site. If you like the way things look, 
+check out the template for yourself at http://github.com/mojombo/jekyll.
