@@ -1,6 +1,6 @@
 # Welcome to my personal website!
 
-It's not much (yet) but we're growing :')
+It's not much yet but we're growing :')
 
 ## License
 
